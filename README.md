@@ -9,7 +9,7 @@ ESP8266とATP3011を使った音声合成出力<br>
 
 音声出力のサンプル<br>
 XXX.XXX.XXX.XXXの部分はESP8266のIPアドレスに書き換えてください。<br>
-http://XXX.XXX.XXX.XXX/speech?say=korewa/<ALPHA VAL=ATP3011>no/te'_sutode_su.<br>
-http://XXX.XXX.XXX.XXX/speech?say=ketayomi <NUMK VAL=12344567>de_su.<br>
+<http://XXX.XXX.XXX.XXX/speech?say=korewa/ <ALPHA VAL=ATP3011>no/ te'_sutode_su.><br>
+<http://XXX.XXX.XXX.XXX/speech?say=ketayomi <NUMK VAL=12344567>de_su.><br>
 
 
