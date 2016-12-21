@@ -5,9 +5,8 @@ ESP8266とATP3011を使った音声合成出力<br>
 このスケッチをコンパイルするには、Arduino用 音声合成LSIライブラリが必要です。<br>
 以下のURLからライブラリをダウンロードしてインストールして下さい。<br>
 <http://blog-yama.a-quest.com/?eid=970151>
-
-
-ESPr One（Arduino Uno同一形状 ESP-WROOM-02開発ボード）とAquesTalkプロトシールドの組み合わせで動作確認しました。<br>
+<br>
+ESPr One(Arduino Uno同一形状 ESP-WROOM-02開発ボード)とAquesTalkプロトシールドの組み合わせで動作確認しました。<br>
 * ESPr One <https://www.switch-science.com/catalog/2620/><br>
 * AquesTalkプロトシールド <https://www.switch-science.com/catalog/1373/><br>
 <br>
