@@ -7,6 +7,11 @@ ESP8266とATP3011を使った音声合成出力<br>
 <http://blog-yama.a-quest.com/?eid=970151>
 
 
+ESPr One（Arduino Uno同一形状 ESP-WROOM-02開発ボード）とAquesTalkプロトシールドの組み合わせで動作確認しました。<br>
+* ESPr One <https://www.switch-science.com/catalog/2620/><br>
+* AquesTalkプロトシールド <https://www.switch-science.com/catalog/1373/><br>
+<br>
+<br>
 音声出力のサンプル<br>
 XXX.XXX.XXX.XXXの部分はESP8266のIPアドレスに書き換えてください。<br>
 http://XXX.XXX.XXX.XXX/speech?say=korewa/ <ALPHA VAL=ATP3011>no/ te'_sutode_su.<br>
