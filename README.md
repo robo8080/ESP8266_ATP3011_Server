@@ -8,6 +8,7 @@ ESP8266とATP3011を使った音声合成出力<br>
 <br>
 スケッチのssidとpasswordは、自分の環境に合わせて書き換えてください。
 <br>
+<br>
 ESPr One(Arduino Uno同一形状 ESP-WROOM-02開発ボード)とAquesTalkプロトシールドの組み合わせで動作確認しました。<br>
 * ESPr One <https://www.switch-science.com/catalog/2620/><br>
 * AquesTalkプロトシールド <https://www.switch-science.com/catalog/1373/><br>
